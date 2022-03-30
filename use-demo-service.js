@@ -5,3 +5,7 @@ export const getAppList = (data) => callApi({
     data,
   },
 });
+
+
+
+// 在使用接口的组件内引入该方法即可
